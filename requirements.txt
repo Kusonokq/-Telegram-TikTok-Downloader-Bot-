@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+yt-dlp
+requests
+python-dotenv
+beautifulsoup4
