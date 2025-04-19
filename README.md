@@ -97,4 +97,4 @@ Telegram TikTok Downloader | Без водяных знаков | yt-dlp бот 
 
 ## 🧾 Лицензия
 
-MIT © [Kusonoki]
+MIT © [ Kusonokq ]
